@@ -3,9 +3,3 @@ body{
     
 }   
 
-.wrap{
-    background: rgba(red, green, blue, alpha);
-    padding: 55px;
-    border-radius: 12px;
-    max-width: 255px;
-}
