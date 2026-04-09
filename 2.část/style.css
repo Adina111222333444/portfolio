@@ -1,0 +1,21 @@
+body{
+background-color: #0a8cf72c;
+font-family: arial, sans-serif;
+}
+
+
+
+p{
+color: #0447ff;
+font-size: 22px;
+}
+
+p{
+    color: red;
+}
+
+
+
+.card{
+    box-shadow:22px rgb(37, 99, 61);
+}
